@@ -1,0 +1,188 @@
+[
+  {
+    "Recipe_Id": "101",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "Recipe_name": "John Smith",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 15,
+    "Recipes": 6,
+    "Likes": 700,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  },
+  {
+    "Recipe_Id": "102",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "recipe_name": "Kate Howston",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 10,
+    "Recipes": 6,
+    "Likes": 510,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  },
+  {
+    "Recipe_Id": "103",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "recipe_name": "Albert Dupontel",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 14,
+    "Recipes": 6,
+    "Likes": 726,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  },
+  {
+    "Recipe_Id": "104",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "recipe_name": "Michale Brown",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 11,
+    "Recipes": 6,
+    "Likes": 658,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  },
+  {
+    "Recipe_Id": "105",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "recipe_name": "Devidson H",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 17,
+    "Recipes": 6,
+    "Likes": 953,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  },
+  {
+    "Recipe_Id": "106",
+    "Chef_Picture": "http://nunforest.com/plato/upload/mem1.jpg",
+    "recipe_name": "Albione Jio",
+    "Bio": "Chef Michale Brown is a seasoned culinary professional with over 11 years of experience in the food industry. He attended culinary school in Paris and has worked in some of the top restaurants in Europe and the United States. Chef Smith's passion for food and dedication to his craft is reflected in his innovative and creative approach to cooking. He has a deep understanding of various cuisines, from classic French to modern fusion, and is always pushing the boundaries of flavor and presentation. In addition to his work in restaurants, Chef Smith is also an avid food writer and educator. He has published several cookbooks and regularly teaches cooking classes and workshops to both professional chefs and home cooks. Chef Smith's commitment to sustainability and ethical sourcing is evident in his use of locally sourced, seasonal ingredients and his efforts to reduce waste in his kitchen. His dishes are not only delicious but also environmentally responsible. Overall, Chef Michale Brown is a talented and passionate chef who continues to inspire and innovate in the culinary world.",
+    "Experience": 22,
+    "Recipes": 6,
+    "Likes": 1560,
+    "Dishes": [
+      {
+        "banner": "https://img.freepik.com/free-photo/side-view-pasta-with-tomato-sauce-wooden-table_176474-2506.jpg?w=740&t=st=1683022879~exp=1683023479~hmac=bcd929a54ff24b8138f6148ffba2f179a94c89968ee6c478c36fa09549fd0a62",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_with_Ingredients": "Cook 400g spaghetti in boiling salted water until al dente. In a frying pan. sauté 150g cubed guanciale until crispy. In a mixing bowl. whisk 4 egg yolks. 2 whole eggs. and 100g grated Pecorino Romano cheese. Drain the cooked spaghetti and add it to the pan with the guanciale. Turn off the heat and toss the spaghetti with the guanciale until coated in the fat. Pour the egg mixture over the spaghetti and quickly stir until the eggs have cooked and coated the pasta. Serve immediately with black pepper and additional cheese if desired."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/margharita-pizza-with-full-tomato-sauce-andgreen-basilica-leaves-per-slice_114579-1902.jpg?w=740&t=st=1683037179~exp=1683037779~hmac=a4af7854e479580b76d22692dcf20b63326e2220bc2813e4805bc47b816cc205",
+        "recipe_name": "Margherita Pizza",
+        "recipe_with_Ingredients": " Preheat the oven to 230°C. Stretch a 300g pizza dough ball into a 30cm round on a floured surface. Spread 200g of tomato sauce over the dough. Leaving a 1cm border around the edge. Top with 200g sliced mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly. Garnish with fresh basil leaves and serve hot."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=740&t=st=1683037296~exp=1683037896~hmac=4c8f2c8d0f7b707ce8e62baf221ced35967f01a81af03d4a43498a449023fe5d",
+        "recipe_name": "Lasagna",
+        "recipe_with_Ingredients": "Preheat the oven to 180°C, Cook 500g lasagna noodles in boiling salted water until al dente, In a skillet, brown 500g ground beef or Italian sausage with 1 diced onion and 2 minced garlic cloves,  Add 800g canned crushed tomatoes, 2 tbsp tomato paste, 1 tsp dried basil, and 1 tsp dried oregano. Simmer for 15 minutes. In a separate saucepan, melt 50g butter and whisk in 50g flour to make a roux. Gradually whisk in 500ml milk to make béchamel sauce. Season with salt and nutmeg In a greased 9x13 inch baking dish, layer the cooked noodles, meat sauce, and béchamel sauce. Repeat until all ingredients are used up. Top with 200g shredded mozzarella cheese Bake for 30-35 minutes or until the cheese is melted and bubbly."
+      },
+      {
+        "banner": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-878.jpg?w=740&t=st=1683041059~exp=1683041659~hmac=ef77e5d85511ea0294771859b9c7bbe9216736f2f1b0ba21e39b7311cb2aff60",
+        "recipe_name": "Tiramisu",
+        "recipe_with_Ingredients": "Brew 2 cups of strong espresso and let it cool to room temperature, In a mixing bowl, beat 6 egg yolks with 100g granulated sugar until pale and thick. Add 500g mascarpone cheese and beat until smooth. In a separate mixing bowl, beat 4 egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture until no white streaks remain. Dip 24 ladyfingers in the cooled espresso and arrange them in a 9x13 inch baking dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture. Cover and chill for at least 2 hours or overnight. Before serving, dust the top with cocoa powder."
+      }
+    ]
+  }
+]
